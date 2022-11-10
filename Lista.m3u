@@ -1,0 +1,7 @@
+
+#EXTINF:-1,BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:-1,Ready TV Canal 6
+
+#EXTINF:-1 tvg-ID="15-513" tvg-name="Ready TV" tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="República Dominicana",Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
